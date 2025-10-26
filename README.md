@@ -28,5 +28,5 @@ It captures tone, pitch, and rhythm patterns that distinguish human emotions.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/audio-emotion-recognition.git
+git clone [https://github.com/your-username/audio-emotion-recognition.git](https://github.com/SurajitMaity404/Advanced-Audio-Sentiment-Analysis-Model-with-GUI_.git)
 cd audio-emotion-recognition
